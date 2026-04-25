@@ -1,0 +1,108 @@
+================================================================
+ENSIT — National Engineering School of Tunis
+Annual Activity Report — Academic Year 2023/2024
+================================================================
+
+1. ACADEMIC DATA
+----------------
+Total enrolled students                 : 4,105
+New enrollments (1st year)              : 812
+Master's students                       : 634
+PhD students                            : 89
+Overall pass rate                       : 74%
+Dropout rate                            : 16.3%
+Average attendance rate                 : 83%
+Graduation rate                         : 71%
+
+Students by department:
+  - Civil Engineering                   : 520 students
+  - Electrical Engineering              : 870 students
+  - Mechanical Engineering              : 430 students
+  - Computer Engineering                : 1,560 students
+  - Industrial Engineering              : 725 students
+
+2. FINANCIAL DATA
+-----------------
+Annual budget allocated                 : 6,200,000 TND
+Budget consumed                         : 4,836,000 TND
+Budget execution rate                   : 78%
+Average cost per student                : 1,178 TND
+Own revenue (continuing education)      : 415,000 TND
+Operating expenses                      : 3,640,000 TND
+Investment expenses                     : 1,196,000 TND
+
+3. HUMAN RESOURCES
+------------------
+Permanent teaching staff                : 210
+Visiting lecturers                      : 48
+Administrative staff                    : 81
+Technicians and service agents          : 37
+Teaching staff absenteeism rate         : 8.5%
+Administrative absenteeism rate         : 11.2%
+Unfilled vacant positions               : 23
+Student to teacher ratio                : 19.5
+
+4. RESEARCH & INNOVATION
+------------------------
+Indexed scientific publications         : 31
+Conference papers                       : 54
+Active research projects                : 8
+Nationally funded projects              : 5
+Internationally funded projects         : 3
+Patents filed                           : 1
+Total research funding received         : 430,000 TND
+Research laboratories                   : 6
+PhD dissertations defended in 2024      : 11
+
+5. INFRASTRUCTURE
+-----------------
+Classroom occupancy rate                : 96%
+Laboratory occupancy rate               : 91%
+Operational IT equipment                : 76%
+Total surface area (m2)                 : 22,400
+Classrooms                              : 48
+Teaching laboratories                   : 22
+Lecture halls                           : 6
+
+6. SUSTAINABILITY (ESG)
+-----------------------
+Annual electricity consumption          : 1,580,000 kWh
+Annual water consumption                : 24,300 m3
+Estimated CO2 emissions                 : 790 tonnes
+Solar panels installed                  : 0
+Waste sorting rate                      : 18%
+Internal sustainability score           : 41/100
+
+7. PARTNERSHIPS & MOBILITY
+---------------------------
+Active partnership agreements           : 21
+International agreements (Erasmus+)     : 6
+Outgoing students (mobility)            : 29
+Incoming students (mobility)            : 11
+Partner companies for internships       : 94
+Industrial agreements signed in 2024    : 3
+
+8. GRADUATE EMPLOYMENT
+-----------------------
+Employability rate (class of 2023)      : 69%
+Average time to first job               : 7.8 months
+Jobs in private sector                  : 58%
+Jobs in public sector                   : 24%
+Pursuing further studies                : 18%
+Average first salary                    : 1,540 TND/month
+
+================================================================
+Director's Notes:
+The dropout rate of 16.3% is alarmingly high and has increased
+significantly compared to last year. Emergency intervention
+plans are being discussed at the academic council level.
+Budget execution stands at only 78%, leaving 1,364,000 TND
+unspent — a serious concern given the infrastructure backlog.
+IT equipment operability has dropped to 76%, with 34 machines
+awaiting repair or replacement across 5 laboratories.
+The Computer Engineering department now accounts for 38% of
+total enrollment, creating a severe resource imbalance across
+departments that must be addressed in the 2025 academic plan.
+Sustainability performance is well below the network average,
+with no solar installations and a waste sorting rate of only 18%.
+================================================================
